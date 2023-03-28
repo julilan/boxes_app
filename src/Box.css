@@ -1,0 +1,15 @@
+.box {
+  background-color: white;
+  min-width: 200px;
+  height: 200px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 1rem;
+}
+
+.box p {
+  margin: 0.5rem;
+}

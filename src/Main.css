@@ -1,0 +1,9 @@
+.main {
+  background-color: #4ca5c7;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: calc(100vh - 270px);
+  padding: 2rem;
+
+}
